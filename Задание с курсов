@@ -1,0 +1,25 @@
+int a,b;
+if (some_vector.size() != 0){
+    a = some_vector.size() - 1;
+    b = some_vector[a];
+    reversed_vector.push_back(b);
+some_vector.pop_back();
+if (some_vector.size() != 0){
+    a = some_vector.size() - 1;
+    b = some_vector[a];
+    reversed_vector.push_back(b);
+some_vector.pop_back();
+if (some_vector.size() != 0){
+    a = some_vector.size() - 1;
+    b = some_vector[a];
+    reversed_vector.push_back(b);
+some_vector.pop_back();
+if (some_vector.size() != 0){
+    a = some_vector.size() - 1;
+    b = some_vector[a];
+    reversed_vector.push_back(b);
+some_vector.pop_back();
+}
+}
+}
+}
